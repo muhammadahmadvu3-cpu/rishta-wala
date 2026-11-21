@@ -1,0 +1,6 @@
+{
+  "name": "Noor Rishta — Marriage Bureau & Matrimonial Portal",
+  "description": "Trusted Pakistani marriage bureau and matrimonial website with admin panel. Rs. 100 per profile confirmed on WhatsApp 03096102719.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
